@@ -1,0 +1,88 @@
+body {
+  background-color: #F6F6F6;
+  border-top: 5px solid #222222;
+  border-bottom: 5px solid #222222;
+  margin: 30px auto;
+  padding: 50px;
+  width: 800px;
+}
+
+nav {
+  color: black;
+  font-style: bold;
+}
+
+nav li {
+  display: inline-block;
+}
+
+a {
+  font-weight: bold;
+  color: #05080C;
+}
+
+li.current_page a {
+  text-decoration: none;
+  font-style: italic;
+}
+
+header {
+  text-align: center;
+}
+
+img.avatar {
+  float: right;
+  padding-left: 30px;
+}
+
+img.relaxr {
+  padding: 30px;
+}
+
+ul {
+  padding: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #222;
+  margin: 30px 0;
+}
+
+.stab-line {
+  padding-right: 30px;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+.name {
+  text-transform: uppercase;
+}
+
+.social_media {
+  padding-left: 140px;
+}
+
+.experience {
+  text-transform: capitalize;
+  font-style: bold;
+  font-size: 26px;
+}
+
+.portfolio {
+  text-transform: uppercase;
+  font-style: bold;
+  font-size: 18px;
+}
+
+.portfoili_social_media {
+  text-align: center;
+}
+
+.position {
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 18px;
+}
